@@ -1,0 +1,19 @@
+{
+  "name": "tcs-npm-basic",
+  "version": "1.0.0",
+  "description": "Basic understanding of how to publish a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premvarmak/tcs-npm-learning.git"
+  },
+  "author": "Prem Varma Konduru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premvarmak/tcs-npm-learning/issues"
+  },
+  "homepage": "https://github.com/premvarmak/tcs-npm-learning#readme"
+}
